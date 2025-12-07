@@ -1,0 +1,7 @@
+{
+  "appId": "com.sis.app",
+  "appName": "Sis",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
+
